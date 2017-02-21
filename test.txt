@@ -6,4 +6,7 @@ This is third line.
 
 This is fourth line.
 
-This is conflict line on local machine.
+Conflict line is resolved according to locally and github server updates.
+
+
+
